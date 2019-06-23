@@ -2,7 +2,7 @@
 06-13-2019
 
 ### Project Title
-US Bikeshare Data Analysis
+US Bikeshare Data Analysis and Interactive Query
 
 ### Description
 This project is to use Python to understand US bikeshare data. It calculates statistics and builds an interactive environment where a user chooses the data and filter for a dataset to analyze.
