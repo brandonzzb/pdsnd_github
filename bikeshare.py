@@ -196,6 +196,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
+        # ask if users want to see five rows of data display
         user_input = input('\nWould you like to see five rows of data?\nPlease enter Yes or No:\n').lower()
         if user_input in ('yes', 'y'):
             i = 0
