@@ -206,7 +206,7 @@ def main():
                 more_data = input('Would you like to see more data? Please enter Yes or No:\n').lower()
                 if more_data not in ('yes', 'y'):
                     break
-
+        #ask if users want to restart the query
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
